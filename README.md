@@ -1,0 +1,2 @@
+# Cognitive-Resurgence-Machine-Learning-Approaches-to-Drug-Repurposing-in-Alzheimer-s
+ Cognitive Resurgence: Machine Learning in Alzheimer's Drug Repurposing uses machine learning to identify existing drugs for Alzheimer's treatment. By analyzing molecular and clinical data, it predicts potential drug-disease interactions, offering a faster, cost-effective path to discovering new treatments for Alzheimer's.
